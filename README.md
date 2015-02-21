@@ -72,9 +72,13 @@ Various Analyses such as Polymerase Chain Reaction (PCR) and Amplified Fragment 
 
 ### Pattern Matching
 <p align="justify">
-The distances travelled by STR fragments are recorded as Bands and the similarity between the bands of various samples are calculated. DNA can be recognized by calculating the Similarity Index between the samples. Similarity Index [7] is a number of common fragments in DNA fingerprinting profile of individual x and y, divided by the average number of fragments exhibited by both individual. The Similarity index is given by Equation 1:
+The distances travelled by STR fragments are recorded as Bands and the similarity between the bands of various samples are calculated. DNA can be recognized by calculating the Similarity Index between the samples. Similarity Index [7] is a number of common fragments in DNA fingerprinting profile of individual x and y, divided by the average number of fragments exhibited by both individual. The Similarity S<sub>xy</sub> index is given by Equation:
 
-Where is the total number of Fragments in x, is the total number of Fragments in y and is number of similar bands in x and y.
+<p align="center">
+S<sub>xy</sub> = 2n<sub>xy</sub> / n<sub>x</sub> + n<sub>y</sub>
+</p>
+
+Where n<sub>x</sub> is the total number of Fragments in x, n<sub>y</sub> is the total number of Fragments in y and n<sub>xy</sub> is number of similar bands in x and y.
 </p>
 
 
