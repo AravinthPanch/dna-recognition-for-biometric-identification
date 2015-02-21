@@ -92,7 +92,15 @@ An initiative by FBI [6] to look for new scientific advances to increase the ran
 - CODIS - Combined DNA Index System is the generic term used to describe the FBI’s program of support for criminal justice DNA databases as well as the software used to run these databases.
 - NDIS - National DNA Index System is considered one part of CODIS, the national level, containing the DNA profiles contributed by federal, state, and local participating forensic laboratories.
 
-
+References
+--------------------------------------
+1. K. Delac, M. Grgic - A survey of biometric recognition methods. ISBN - 953-7044-02-5
+2. A. J. JEFFREYS, V. WILSON & S. L. THEIN - Individual-specific fingerprints of human DNA. 1985.
+3. DNA - http://en.wikipedia.org/wiki/DNA
+4. Saiki, RK; Scharf S, Faloona F, Mullis KB, Erlich HA, Arnheim N (Dec 20 1985). "Enzymatic amplification of beta-globin genomic sequences and restriction site analysis for diagnosis of sickle cell anemia". Science 230 (4732): 1350–1354.
+5. E. Scott Archer and Frederick C. Leung - Computer Program for Automatically Calculating Similarity Indexes from DNA Fingerprints. Bio Techniques 25:252-254. 1998
+6. FBI – The Federal Bureau of Investigations- Fingerprints & Biometrics, CODIS & NDIS Databases.www.fbi.gov/aboutus/cjis/fingerprints_biometrics
+7. Michael Lynch - The Similarity Index and DNA Fingerprinting. Mol. Biol. Evol. 7(5):478-484. 1990.
 
 
 
