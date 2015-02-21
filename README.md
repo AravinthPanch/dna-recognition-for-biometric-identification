@@ -11,6 +11,8 @@ Biometric Authentication is a process where an individual who is Verified and Id
 The following sections in this paper describe the insight of DNA Fingerprinting, the laboratorial procedures for DNA extraction and analysis, Pattern Matching, Software and Databases available.
 </p>
 
+![DNA](./Images/dna.jpg "DNA Structure") 
+
 AUTHOR
 --------------------------------------
 - Aravinth Panchadcharam
@@ -57,7 +59,7 @@ STR fragments are extracted from the samples by following the procedures which a
 
 ### Electrophoresis
 
-This process contains the below given procedures and yields to the result that will be stored as an Image where the distances travelled by the fragments can be calculated. (Figure 1)
+This process contains the below given procedures and yields to the result that will be stored as an Image where the distances travelled by the fragments can be calculated.
 
 - Fragmented DNA of samples are deposited into the wells or lanes created in the Agarose gel
 - Both ends of the gel are connected to electrodes applying positive and negative voltage respectively
@@ -66,6 +68,7 @@ This process contains the below given procedures and yields to the result that w
 
 Various Analyses such as Polymerase Chain Reaction (PCR) and Amplified Fragment Length Polymorphism (AmpFLP) can be carried out to achieve this result.
 
+![Band](./Images/bands.png "DNA Bands") 
 
 ### Pattern Matching
 <p align="justify">
@@ -75,16 +78,16 @@ Where is the total number of Fragments in x, is the total number of Fragments in
 </p>
 
 
-
 DNA Fingerprinting Software and Databases
 --------------------------------------
 
 ### DNA Simdex
 <p align="justify">
 DNA Simdex [5] is a computer program implemented by University of Hong Kong that uses sophisticated image-analysis techniques to automatically locate bands on electrophoresis gel images and calculate similarity indexes. Similarity indexes for any set of lanes on a single gel or on different gels can be calculated using this Software.
-Simdex2.1 displays band migration lengths, molecular weight and calculated similarity indexes in tabular displays in Figure 2.
+Simdex2.1 displays band migration lengths, molecular weight and calculated similarity indexes in tabular displays.
 </p>
 
+![Simdex](./Images/simdex.png "Simdex") 
 
 ### Databases
 An initiative by FBI [6] to look for new scientific advances to increase the range and quality of biometric identification capabilities established few databases which can be accessed by the forensic laboratories.
